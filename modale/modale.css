@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(158, 63, 63);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+}
+.back a {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 1.5vw;
+    font-weight: 600;
+    text-decoration: underline wavy rgb(158, 63, 63);
+    color: black;
+    position: absolute;
+    top: 2%;
+    left: 2%;
+}
+
+img{
+    width: 60%;
+    height: 80%
+}
